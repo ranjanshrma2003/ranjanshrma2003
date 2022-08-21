@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://raw.githubusercontent.com/ranjanshrma2003/MainPortfolio/master/public/assets/White%20and%20Black%20Modern%20Business%20Woman%20LinkedIn%20Banner%20.png))](https://ranjansharma.tech)
+[![MasterHead](https://raw.githubusercontent.com/ranjanshrma2003/MainPortfolio/master/public/assets/White%20and%20Black%20Modern%20Business%20Woman%20LinkedIn%20Banner%20.png)](https://ranjansharma.tech)
 <h1 align="center">Hi 👋, I'm Ranjan Sharma</h1>
 <h3 align="center">I AM ENTHUSIASTIC WEB DEVELOPER EAGER TO CONTRIBUTE TO TEAM SUCCESS THROUGH HARD WORK, ATTENTION TO DETAIL, AND EXCELLENT ORGANIZATIONAL SKILLS.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
