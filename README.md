@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ranjansharma.tech](https://www.ranjansharma.tech)
 
-- 📝 I regularly write articles on [https://www.ranjansharma.tech](https://www.ranjansharma.tech)
+- 📝 I regularly write articles on [https://www.blogs.ranjansharma.tech](https://www.ranjansharma.tech)
 
 - 💬 Ask me about **Full Satck Web Developer, MERN**
 
