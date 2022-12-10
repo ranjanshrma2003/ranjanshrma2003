@@ -45,7 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharma3ranjan&&theme=tokyonight" alt="ranjanshrma2003" /></p><br>
 
-<a href="https://github.com/sharma3ranjan/github-readme-activity-graph"><img alt="Ranjan Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sharma3ranjan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ranjan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sharma3ranjan&bg_color=0d1117&color=ffffff&line=5bcdec&point=5bcdec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/ranjanshrma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ranjanshrma" /></a></p><br><br>
