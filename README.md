@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **just.think2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y651QMtbT1Q6561QwnTT8gZsyjE07CGc/view?usp=sharing](https://drive.google.com/file/d/1y651QMtbT1Q6561QwnTT8gZsyjE07CGc/view?usp=sharing)
+- 📄 Know about my experiences [https://ranjansharma.tech](https://drive.google.com/file/d/1y651QMtbT1Q6561QwnTT8gZsyjE07CGc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
