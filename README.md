@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/ranjanshrma2003/MainPortfolio/master/public/assets/Main-Profile.png)](https://ranjansharma.tech)
 <h1 align="center">Hi 👋, I'm Ranjan Sharma</h1>
 <h3 align="center">I Am Enthusiastic Web Developer Eager To Contribute To Team Success Through Hard Work, Attention To Detail, And Excellent Organizational Skills.</h3>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sharma3ranjan/sharma3ranjan/blob/main/devcard.svg" width="400" alt="Ranjan Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sharma3ranjan/sharma3ranjan/blob/main/devcard.svg" width="200" alt="Ranjan Dev Card"/></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjanshrma2003&label=Profile%20views&color=0e75b6&style=flat" alt="ranjanshrma2003" /> </p>
